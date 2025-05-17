@@ -1,27 +1,42 @@
-This is my part of the full "StockFlow" project:
+# 🔧 My Contribution – StockFlow Backend
 
-🔧 My Contribution
-I worked on the ["Backend/database"], mainly focusing on:
+This is my part of the full **StockFlow** project.  
+I focused on the **Backend and Database Layer**, building the core logic that powers the system.
 
-Database design – structured how inventory data is stored and accessed
+## ✅ Responsibilities & Features I Implemented
 
-Backend logic – handled data processing and interaction with files or databases
+- **Inventory Tracking**  
+  Handled storage, updates, and quantity checks of stock items.
 
-Features I implemented:
+- **Customer Management**  
+  Implemented logic for adding and managing customer records.
 
-Inventory tracking
+- **Stock Item Operations**  
+  Built functions to add, edit, and remove stock items efficiently.
 
-Adding and managing customers
+- **Category Filtering**  
+  Enabled viewing stock items based on their category.
 
-Adding/editing/removing stock items
+- **Transaction Handling**  
+  Developed backend logic to record and process transactions.
 
-Filtering stock by category
+- **Time-Based Reporting**  
+  Created daily, monthly, and yearly reports using backend date filtering.
 
-handling transactions
+- **CSV/Excel File Handling**  
+  All data is stored and managed through local CSV files, simulating a database structure.
 
-creating  time based reports(day,month,year)
+## 🗃️ Technologies Used
 
-CSV/Excel file handling
+- **Java** for all backend logic and file operations.
+- **CSV Files** as the primary data storage (used before learning MySQL).
+
+## 📌 Notes
+
+- This version of StockFlow does not use a traditional database like MySQL.
+- All features are implemented using file-based storage to simulate backend behavior.
+- The system is designed to be modular and upgradeable to database support in the future.
+
 
 
 
