@@ -1,4 +1,4 @@
-This is my part of the full "FlowStock" project:
+This is my part of the full "StockFlow" project:
 
 🔧 My Contribution
 I worked on the ["Backend/database"], mainly focusing on:
